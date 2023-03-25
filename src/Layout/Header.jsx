@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { auth } from "../firebase";
 import { signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import { useState } from "react";
-// import HealthPilot from '../assets/img/HealthPilot.png';
+import HealthPilot from "./HealthPilot.png";
 
 const Header = () => {
   const provider = new GoogleAuthProvider();
@@ -54,14 +54,7 @@ const Header = () => {
                 justifyContent: "center",
               }}
             >
-              <img
-                width={70}
-                height={70}
-                src={
-                  "https://user-images.githubusercontent.com/86917304/189974862-abcfeac0-b5ed-44d2-8eb4-8e2a05a59294.png"
-                }
-                alt="logo"
-              />
+              <img width={130} height={130} src={HealthPilot} alt="logo" />
               <span style={{ marginLeft: "13px" }}>HealthPilot</span>
             </div>
           </Link>
