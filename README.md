@@ -1,14 +1,14 @@
 # HealthPilot Healthverse
 
 <div align="center">
-  <a id="top" href="https://wecare32.vercel.app/" target="blank">
+  <a id="top" href="https://healthpilot.vercel.app/" target="blank">
     <img src="https://user-images.githubusercontent.com/86917304/227741974-16cdabd9-e1b8-4f63-b721-6e16f0d4923d.png" width="200px" alt="">
   </a>
 
   <h3 align="center">HealthPilot - The HealthVerse</h3>
 
   <p align="center">
-    <a href="https://wecare32.vercel.app/" target="blank">Live Demo</a> |
+    <a href="https://healthpilot.vercel.app/" target="blank">Live Demo</a> |
     <a href="https://github.com/MSamiDev/health-pilot/issues" target="blank">Report Bug</a> |
     <a href="https://github.com/MSamiDev/health-pilot/pulls" target="blank">Request Feature</a>
   </p>
@@ -176,7 +176,7 @@ Team Name - Hackit
 
 Leader - [Sreetama](mailto:fool100abc@gmail.com)
 
-Project Link: [HealthPilot]()
+Project Link: [HealthPilot](https://healthpilot.vercel.app)
 
 Video Link : [HealthPilot]()
 
