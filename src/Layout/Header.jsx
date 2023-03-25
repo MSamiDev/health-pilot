@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { auth } from "../firebase";
 import { signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import { useState } from "react";
-// import Wecare from '../assets/img/Wecare.png';
+// import HealthPilot from '../assets/img/HealthPilot.png';
 
 const Header = () => {
   const provider = new GoogleAuthProvider();
@@ -62,7 +62,7 @@ const Header = () => {
                 }
                 alt="logo"
               />
-              <span style={{ marginLeft: "13px" }}>Wecare</span>
+              <span style={{ marginLeft: "13px" }}>HealthPilot</span>
             </div>
           </Link>
           <div

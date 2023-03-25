@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <Layouts>
       <Helmet>
-        <title>Wecare | Home</title>
+        <title>HealthPilot | Home</title>
       </Helmet>
 
       {/* <!-- Main Navigation --> */}

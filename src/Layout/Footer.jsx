@@ -1,37 +1,63 @@
 import React from "react";
+import "../assets/CSS/footer.css";
 
 const Footer = () => {
   return (
     <>
-      <footer className="mainfooter">
-        <div className="content-wrapper-sm display-flex-between">
-          {/* <!-- Easily replaceble copyright information --> */}
-          <small>
-            © {new Date().getFullYear()} , WeCare Copyright , All rights
-            reserved{" "}
-          </small>
-
-          {/* <!-- Make sure to edit the links so that they go to your social media. --> */}
-          <div className="social-links">
-            <h4>Made With ♥ By Team Hackit</h4>
-            <ul>
-              {/* eslint-disable-next-line */}
+      <footer>
+        <div className="footer-content">
+          <h3>HealthPilot</h3>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
+            vitae felis scelerisque, gravida sapien non, cursus augue. Aenean id
+            pretium turpis. Suspendisse eros nunc, sollicitudin nec.
+          </p>
+          <ul className="socials">
+            <li>
+              <a href="#">
+                <i className="fa fa-facebook" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i className="fa fa-twitter" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i className="fa fa-google-plus" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i className="fa fa-youtube" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i className="fa fa-linkedin-square" />
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div className="footer-bottom">
+          <p>
+            Copyright © <span id="year">{new Date().getFullYear()}</span>{" "}
+            <a href="#">@Team Bug Rains</a>{" "}
+          </p>
+          <div className="footer-menu">
+            <ul className="f-menu">
               <li>
-                <a href="/">
-                  <i className="fa fa-facebook" aria-hidden="true"></i>
-                </a>
+                <a href>Home</a>
               </li>
-              {/* eslint-disable-next-line */}
               <li>
-                <a href="/">
-                  <i className="fa fa-twitter" aria-hidden="true"></i>
-                </a>
+                <a href>About</a>
               </li>
-              {/* eslint-disable-next-line */}
               <li>
-                <a href="/">
-                  <i className="fa fa-instagram" aria-hidden="true"></i>
-                </a>
+                <a href>Appointment</a>
+              </li>
+              <li>
+                <a href>Doctor</a>
               </li>
             </ul>
           </div>
