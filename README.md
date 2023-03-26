@@ -94,24 +94,24 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## **Welcome Your Web app**
 
-![image](https://user-images.githubusercontent.com/73426684/213864866-9ae0d35f-2e26-4446-884a-f1dbdf039bf2.jpg)
+![image](https://user-images.githubusercontent.com/86917304/227757152-4b058dd7-aa24-41d9-8fda-d7420a20e72c.png)
 
 
-## Here we have our Joke bot ! Joke_bot helps you to get rid of the stress troubling you
+## A Smart Bot (healthGenie)
+This is our bot which is intregrate with the our designed ML model which firstly analyze your mood and then suggest you joke if it detect you are sad otherwise bless you with happy quote.
 
-
-![Welcome](https://user-images.githubusercontent.com/73426684/213849366-0464688a-08db-4086-a13b-ee3125232740.jpg)
-
-
-## Fill out the details as such your gender and age
+![image](https://user-images.githubusercontent.com/86917304/227757256-b2d1809d-05bb-48d9-9358-0fa317ab283c.png)
 
 
 
-![Welcome](./images/welcome_page.jpg)
+## Appointment Booking
+This is our feature to book appoinment and register you doubts with the expert doctors,  doctors can respond accordingly to that.
+
+![image](https://user-images.githubusercontent.com/86917304/227757284-e640fdb1-96c8-445e-b6fb-35db67d3addc.png)
 
 
 
-## Fill in all necessary information to track  your previous history of illness
+## 
 
 
 
