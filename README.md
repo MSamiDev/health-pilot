@@ -31,7 +31,7 @@ As per the Lancet [report](https://www.thelancet.com/journals/lancet/article/PII
 
 ## How it works :
 
-We have here modernized our healthcare system through  WeCare Fun Bot , WeCare Checker , Scheduling Appointments with Doctors and Doctor Login System .The fun bot is used to tell jokes to uplift our mood through jokes , Jokes helps one to cope mental pressure and lighten our mood. Here we are prediciting one's possiblity to have a certain Disease. Here we are using our model's API to predict the possibility to have the particular disease based  on specific chosen symtoms. Finally we are also allowing users to book online appointment for check up. 
+We have here modernized our healthcare system through  HealthPilot Fun Bot , HealthPilot Checker , Scheduling Appointments with Doctors and Doctor Login System .The fun bot is used to tell jokes to uplift our mood through jokes , Jokes helps one to cope mental pressure and lighten our mood. Here we are prediciting one's possiblity to have a certain Disease. Here we are using our model's API to predict the possibility to have the particular disease based  on specific chosen symtoms. Finally we are also allowing users to book online appointment for check up. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
