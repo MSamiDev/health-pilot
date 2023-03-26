@@ -111,22 +111,19 @@ This is our feature to book appoinment and register you doubts with the expert d
 
 
 
-## 
+## HealthPilot Symptom Checker
+
+### Gender Details
+
+![image](https://user-images.githubusercontent.com/86917304/227757486-a8edbbf1-5c7c-4033-adfe-0f0f54f591ca.png)
+
+![image](https://user-images.githubusercontent.com/86917304/227757507-648ff4de-ada2-4770-bb48-59566cb2f04a.png)
 
 
 
-![Welcome](./images/patient.jpg)
+### Now Fill in the Symtopms you likely have
 
-
-
-## Now Fill in the Symtopms you likely have
-
-
-
-![Welcome](./images/symtom.jpg)
-
-
-
+![image](https://user-images.githubusercontent.com/86917304/227757621-5a3925fc-1f68-442a-8a40-95d935b18d70.png)
 
 ## Hurray ! We got the results
 
@@ -135,15 +132,13 @@ This is our feature to book appoinment and register you doubts with the expert d
 
 *Add_in : You can also learn about the disease directly by clicking on info*
 
-
-
-![Welcome](./images/disease_report.jpg)
+![image](https://user-images.githubusercontent.com/86917304/227757607-91d52f85-a9d2-4e1c-89a5-3c003006304c.png)
 
 
 ## Doctor's call is final, So do check yourself up with doctor!!
 
 ### Deskstop View
-![image](https://user-images.githubusercontent.com/86917304/190920646-b3ddd488-9d46-41fa-b167-173541c76426.png)
+![image](https://user-images.githubusercontent.com/86917304/227757653-b0f301e6-e448-48d1-82e1-057ebb4aea5e.png)
 
 ### Mobile View of Doctor's Dashboard
 ![Welcome](https://user-images.githubusercontent.com/73426684/213864966-5869f035-222c-4b1a-b853-830604d53ab5.jpg)
@@ -172,7 +167,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## Contact
 
-Team Name - Hackit
+Team Name - Bit Rains
 
 Leader - [Sreetama](mailto:fool100abc@gmail.com)
 
