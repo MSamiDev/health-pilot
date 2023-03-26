@@ -8,9 +8,8 @@ const Footer = () => {
         <div className="footer-content">
           <h3>HealthPilot</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-            vitae felis scelerisque, gravida sapien non, cursus augue. Aenean id
-            pretium turpis. Suspendisse eros nunc, sollicitudin nec.
+            Revolutionizing Healthcare with Technology and Compassion - Book,
+            Check, and Laugh with WeCare
           </p>
           <ul className="socials">
             <li>
@@ -43,7 +42,7 @@ const Footer = () => {
         <div className="footer-bottom">
           <p>
             Copyright © <span id="year">{new Date().getFullYear()}</span>{" "}
-            <a href="#">@Team Bug Rains</a>{" "}
+            <a href="#">@Team Bit Rains</a>{" "}
           </p>
           <div className="footer-menu">
             <ul className="f-menu">

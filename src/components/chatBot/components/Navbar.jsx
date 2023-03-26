@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import HealthPilot from "../../../Layout/HealthPilot.png";
 
 const Navbar = () => {
   let isArrayFunction = (inputArray) => {
@@ -20,11 +21,9 @@ const Navbar = () => {
                 <div className="display-flex flex-row align-items-center">
                   <Link to={"/"}>
                     <img
-                      width={70}
-                      height={70}
-                      src={
-                        "https://user-images.githubusercontent.com/86917304/189974862-abcfeac0-b5ed-44d2-8eb4-8e2a05a59294.png"
-                      }
+                      width={110}
+                      height={110}
+                      src={HealthPilot}
                       alt="logo"
                     />
                     <h3
